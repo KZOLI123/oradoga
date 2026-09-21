@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="JatekApp/JatekApp.csproj" />
+  <Project Path="KonyvtarApp/KonyvtarApp.csproj" />
+  <Project Path="Termek/RaktarApp.csproj" />
+</Solution>
